@@ -1,4 +1,4 @@
-#Binary Addition <7kyu>
+# Binary Addition <7kyu>
 
 Task: [Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139)
 
